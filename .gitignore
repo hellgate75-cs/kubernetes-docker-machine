@@ -1,5 +1,5 @@
 **/*-gce-config.env
-**/docker-machine*
+**/docker-machine.exe
 **/helm.*
 **/kind*
 **/kops*
