@@ -98,6 +98,10 @@ For all Operating Systems you can provide locally your preferred version of foll
 
 * [kops](https://kops.sigs.k8s.io/) -> Kubernetes Deploy Automation Tool
 
+Base command line tools:
+
+* [docker-machine](https://docs.docker.com/machine/)
+
 
 
 ## Provided artifacts
