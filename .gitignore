@@ -1,0 +1,17 @@
+**/*-gce-config.env
+**/docker-machine*
+**/helm.*
+**/kind*
+**/kops*
+**/.*hypervisor
+**/.*projects
+**/sample.sh
+**/*.txt
+**/.settings
+key-calls
+repositories
+**/*.csv
+test.sh
+*.env
+**/.old
+**/old
